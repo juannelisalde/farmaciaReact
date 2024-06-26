@@ -1,0 +1,9 @@
+#tableTypes {
+  min-width: 18rem !important;
+}
+
+@media screen and (max-width: 400px) {
+  #tableTypes {
+    min-width: 100% !important;
+  }
+}
